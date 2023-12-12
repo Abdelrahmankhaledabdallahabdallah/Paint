@@ -1,4 +1,4 @@
-# Paint
+# Paint Application
 Design and implement a paint application that allows users to draw and manipulate various geometric shapes. It demonstrates object-oriented design principles and utilizes several design patterns.
 
 **Features:**
@@ -26,11 +26,6 @@ mvn clean install
 A self-executable jar file will be generated in the target directory.
 Run the jar file to start the application:
 java -jar target/paint-app-1.0-SNAPSHOT.jar
-
-**Documentation:**
-
-A comprehensive report is included in the project directory (report.pdf).
-The report details the design, implementation, features, and user manual.
 
 **Additional Notes:**
 
