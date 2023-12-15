@@ -16,6 +16,7 @@ MVC architecture for separation of concerns.
 Implementation of Shape and DrawingEngine interfaces.
 Design patterns: Singleton, Factory Method, Observer (optional), State (optional), Prototype (optional), Command, Memento, Strategy, Dynamic Linkage.
 GUI framework (e.g., Java Swing) for user interaction.
+
 **Installation and Usage:**
 
 Download the project zip file.
